@@ -28,6 +28,7 @@ closure --help
 
 
 Use the availabe options to create your php filter chain:
-<img width="1029" height="54" alt="image" src="https://github.com/user-attachments/assets/ec0fff8d-0c85-4a83-a799-321e2df9a376" />
+<img width="1032" height="109" alt="image" src="https://github.com/user-attachments/assets/60924d67-5ea4-454b-8b75-5e8c93f10424" />
+
 
 
