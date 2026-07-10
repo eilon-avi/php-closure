@@ -24,8 +24,10 @@ After installation, the CLI is available from your terminal:
 ```bash
 closure --help
 ```
-<img width="1662" height="529" alt="image" src="https://github.com/user-attachments/assets/746ed14f-4782-432c-8f47-d0ec98fb9e24" />
+<img width="1659" height="532" alt="image" src="https://github.com/user-attachments/assets/e96a193f-4bda-43bb-8e94-afccd2e81bd6" />
+
 
 Use the availabe options to create your php filter chain:
-<img width="1032" height="109" alt="image" src="https://github.com/user-attachments/assets/08754c31-22dd-427c-8c90-0b76b7eed7a4" />
+<img width="1029" height="54" alt="image" src="https://github.com/user-attachments/assets/ec0fff8d-0c85-4a83-a799-321e2df9a376" />
+
 
