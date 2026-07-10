@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "php-closure"
+version = "1.0.0"
+description = "Wrap file contents with PHP filter chains"
+authors = [
+  { name = "Eilon Avizemer" }
+]
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+dependencies = []
+
+[project.scripts]
+closure = "closure.cli:main"
