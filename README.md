@@ -6,13 +6,13 @@ Closure is a cli tool written in python that can generate php filter chains for 
 Install **closure** directly from GitHub using `pip`:
 
 ```bash
-pip install git+https://github.com/adambedui/php-closure.git
+pip install git+https://github.com/eilon-avi/php-closure.git
 ```
 
 Alternatively, clone the repository and install it locally:
 
 ```bash
-git clone https://github.com/adambedui/php-closure.git
+git clone https://github.com/eilon-avi/php-closure.git
 cd php-closure
 pip install .
 ```
