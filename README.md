@@ -6,16 +6,18 @@ It is meant for CTF challenges and for testing PHP local file inclusion (LFI) bu
 
 # Installation
 
-Install **closure** directly from GitHub using `pip`:
+Install **closure** directly from PyPI using `pip`:
 
 ```bash
-pip install git+https://github.com/eilon-avi/php-closure.git
+pip install php-closure
 ```
 
 Alternatively, clone the repository and install it locally:
 
 ```bash
-pip install php-closure
+git clone https://github.com/eilon-avi/php-closure.git
+cd php-closure
+pip install .
 ```
 
 Requires Python 3.8 or newer. PHP is optional and is only needed for `--test`.
