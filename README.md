@@ -15,9 +15,7 @@ pip install git+https://github.com/eilon-avi/php-closure.git
 Alternatively, clone the repository and install it locally:
 
 ```bash
-git clone https://github.com/eilon-avi/php-closure.git
-cd php-closure
-pip install .
+pip install php-closure
 ```
 
 Requires Python 3.8 or newer. PHP is optional and is only needed for `--test`.
